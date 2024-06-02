@@ -129,8 +129,8 @@ const CreateNewMaterialDialog = ({ open, setDialogOpen }: ChangeRoleUserProps) =
                 setOpen={setShowChangeConfirmation}
                 onConfirm={handleConfirmCreateMaterial}
                 onCancel={handleDesertCancel}
-                title="Confirmación de cambio de rol"
-                message="¿Estás seguro de cambiar el rol del usuario?"
+                title="Confirmación de cambio de material"
+                message="¿Estás seguro de agregar el material?"
             />
 
             {/* Dialog de confirmación para cancelar */}
