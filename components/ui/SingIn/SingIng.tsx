@@ -9,7 +9,7 @@ const SingIn = () => {
           <h1 className=" font-bold text-center text-6xl text-[#03071E] mb-4">
             Bienvenido al Sistema de Gestión de Inventarios
           </h1>
-          <p className="text-[#E85D04]  text-2xl"> Ingeniería Web MJ 2023-2 </p>
+          <p className="text-[#E85D04]  text-2xl"> Ingeniería Web MJ 2024-1 </p>
           <button
               className="px-5 py-3 rounded-md shadow-lg hover:scale-110 mt-5 hover:shadow-none bg-[#E85D04] text-white font-bold text-2xl hover:text-white hover:bg-[#03071E]"
               onClick={() => {
